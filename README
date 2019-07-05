@@ -1,0 +1,8 @@
+xlrd
+xlwt
+numpy
+matplotlib
+pandas
+scikit-learn
+
+# pip install xxx

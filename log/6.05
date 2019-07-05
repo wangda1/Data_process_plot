@@ -1,0 +1,15 @@
+主要使用python处理数据，绘制图形
+先把论文中的图表更改，使用python进行绘制，分析
+
+1. matplotlib的安装
+ sudo apt-get install python3-matplotlib
+ sudo apt-get install python-matplotlib
+
+1. python处理excel数据，
+
+
+
+2. python绘制图形，使用matlabplotlib模块
+
+
+
